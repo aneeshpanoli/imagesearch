@@ -1,5 +1,7 @@
 """
 Data input pipeline definition.
+many of the methods in the section are deprecated and needs updating
+the whole input pipeline is broken
 """
 from __future__ import absolute_import
 from __future__ import print_function
